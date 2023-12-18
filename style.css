@@ -1,0 +1,27 @@
+body{
+    background-color: lightblue;
+    border-style: solid;
+    box-shadow: shadow ;
+    border-color: yellow;
+}
+h2{
+    color: crimson;
+    text-decoration: underline;
+}
+h1{
+    color: red;
+    background-color: lightgoldenrodyellow;
+    height: 70px;
+    padding: 15px;
+    width: 30%;
+}
+h3{
+    color: chocolate;
+}
+p{
+    color: darkmagenta;
+}
+
+span{
+    color: black;
+}
